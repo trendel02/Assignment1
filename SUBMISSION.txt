@@ -1,0 +1,51 @@
+======================================================================
+ CS 1430  -  ASSIGNMENT 1  -  SUBMISSION RECEIPT
+======================================================================
+ Status         : COMPLETE - all checks passed
+ GitHub user    : trendel02
+ Repository     : https://github.com/trendel02/Assignment1
+ Commit         : cfae814  Initial commit
+ Commit author  : trendel02
+ Generated      : 2026-10-04 19:51:24
+
+ SELF CHECK
+======================================================================
+ CS 1430  -  ASSIGNMENT 1 SELF CHECK
+ 2026-10-04 19:51:24   trendel02
+======================================================================
+ [PASS] Python is installed                        3.14.8
+ [PASS] main.py is in this folder                  
+ [PASS] main.py runs without an error              
+ [PASS] The ASCII art is unchanged                 
+ [PASS] You added at least one print statement     1 added
+ [PASS] Your name shows up when the program runs   6 new lines of output
+ [PASS] Git is installed                           git version 2.56.0.windows.1
+ [PASS] This folder is a Git repository            
+ [PASS] You have made a commit                     "Initial commit"
+ [PASS] This repo points at GitHub                 github.com/trendel02/Assignment1
+ [PASS] Your commit is pushed to GitHub            cfae814
+======================================================================
+
+ WHAT YOUR PROGRAM PRINTED
+======================================================================
+
+ _______         __ __
+|   |   |.-----.|  |  |.-----.
+|       ||  -__||  |  ||  _  |__
+|___|___||_____||__|__||_____|  |
+                              |_|
+ ________              __     __ __
+|  |  |  |.-----.----.|  |.--|  |  |
+|  |  |  ||  _  |   _||  ||  _  |__|
+|________||_____|__|  |__||_____|__|
+
+CS 1430  |  Introduction to Python  |  UW-Platteville
+
+
+JJJJJJ  OOO  EEEEEE
+   J   O   O E
+   J   O   O EEEE
+   J   O   O E
+J  J   O   O E
+ JJ     OOO  EEEEEE
+======================================================================

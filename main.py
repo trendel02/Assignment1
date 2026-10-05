@@ -30,6 +30,14 @@ print(BANNER)
 print("CS 1430  |  Introduction to Python  |  UW-Platteville")
 
 # ====================== DO NOT EDIT ABOVE THIS LINE ======================
+print("""
 
-
+JJJJJJ  OOO  EEEEEE
+   J   O   O E
+   J   O   O EEEE
+   J   O   O E
+J  J   O   O E
+ JJ     OOO  EEEEEE
+ """
+)
 # ---------------------- ADD YOUR CODE BELOW THIS LINE ---------------------
